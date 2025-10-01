@@ -1,5 +1,5 @@
 {
-  "name": "softdev/helpers",
+  "name": "dev/helpers",
   "description": "Lightweight reusable helpers for PHP/Laravel projects.",
   "type": "library",
   "license": "MIT",

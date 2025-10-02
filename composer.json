@@ -4,14 +4,8 @@
   "type": "library",
   "license": "MIT",
   "authors": [{ "name": "Soft Dev", "email": "dev@example.com" }],
-  "require": {
-    "php": "^8.1"
-  },
-  "autoload": {
-    "psr-4": {
-      "Devmate\\Helpers\\": "src/"
-    }
-  },
+  "require": { "php": "^8.1" },
+  "autoload": { "psr-4": { "Devmate\\Helpers\\": "src/" } },
   "minimum-stability": "stable",
   "prefer-stable": true
 }

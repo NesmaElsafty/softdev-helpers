@@ -9,11 +9,8 @@
   },
   "autoload": {
     "psr-4": {
-      "SoftDev\\Helpers\\": "src/"
-    },
-    "files": [
-      "src/helpers.php"
-    ]
+      "Devmate\\Helpers\\": "src/"
+    }
   },
   "minimum-stability": "stable",
   "prefer-stable": true
